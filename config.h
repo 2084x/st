@@ -6,7 +6,7 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 static char *font = "mono:pixelsize=20:antialias=true:autohint=true";
-static char *font2[] = { "NotoColorEmoji:pixelsize=15:antialias=true:autohint=true", "Source Han Sans:pixelsize=15:antialias=true:autohint=true" };
+static char *font2[] = { "NotoColorEmoji:pixelsize=15:antialias=true:autohint=true", "Noto Sans Mono CJK KR:pixelsize=15:antialias=true:autohint=true" };
 static int borderpx = 2;
 
 /*
